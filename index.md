@@ -1,8 +1,14 @@
+# Kubernetes 101
+
+## What's 101 ?
+
+101 (pronounced ONE-oh-ONE) is a slang term for the most basic knowledge in some subject, as in "boiling potatoes is cooking 101".
+
 ## A basic instruction for Kubernetes setup and understanding
 
 | Module ID |                                     Module                                     |           Guide            |
 | :-------: | :----------------------------------------------------------------------------: | :------------------------: |
-|     -     |                           Install Kubernetes Cluster                           | [k8s-install](k8s-install) |
+|     -     |                           Install Kubernetes Cluster                           | [k8s-install](k8s-install/readme.md) |
 |     3     |                             Docker Core Technology                             |     [module3](module3)     |
 |     4     |              Kubernetes Architecture Principles and Object Design              |     [module4](module4)     |
 |     5     |                    Kubernetes Control Plane Component: etcd                    |     [module5](module5)     |
@@ -17,12 +23,3 @@
 ## Network
 
 [Network Step by Step](https://www.wolai.com/qRAsHHbnAJYESViqvJHSoo)
-
-## Microservice
-
-1. [microservice.md](3.microservice.md)
-
-## A basic instruction for Istio setup and understanding
-
-1. [istio-setup.md](4.istio-setup.md)
-2. [understand-istio.md](5.undestand-istio.md)
